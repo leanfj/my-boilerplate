@@ -8,8 +8,8 @@ First of all, install the dependencies to run this boilerplate.
 
 ```sh
 # Clone this repository
-$ git clone git@github.com:Qualy-org/qualy-front.git
-$ cd qualy-front
+$ git clone https://github.com/leanfj/my-boilerplate.git
+$ cd my-boilerplate
 
 # install dependencies
 $ npm install
@@ -33,11 +33,8 @@ $ npm install
 ├── gulpfile.js
 ├── package.json
 └── src
-    ├── img
-    │   └── qualy.png
-    │   └── favicon.png
-    ├── js
-    │   ├── main.js
+    ├── javascript
+    │   ├── bootstrap.js
     ├── sass
     │   ├── _base
     |   |   └── _base.sass
