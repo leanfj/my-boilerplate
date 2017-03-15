@@ -8,7 +8,7 @@ First of all, install the dependencies to run this boilerplate.
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/leanfj/my-boilerplate.git
+$ git clone git@github.com:leanfj/my-boilerplate.git
 $ cd my-boilerplate
 
 # install dependencies
